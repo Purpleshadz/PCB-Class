@@ -1,0 +1,16 @@
+Change Component Comment : Designator=C1 Old Comment=47nF New Comment=22uF
+Change component parameters: Designator = "C1" ("C1"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\LYJAGHZQ" ("\LYJAGHZQ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=555_5V Pin=C4-2
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22pF
