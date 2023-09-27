@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=SW1-1
+Removed Pin From Net: NetName=BadInverterInput Pin=SW2-2
+Removed Pin From Net: NetName=GoodInverterInput Pin=SW3-2
+Added Component: Designator=R12(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R13(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(3_PIN_100mil)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=304982371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C49257"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PREC003SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CONN HEADER VERT 3POS 2.54MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GoodInverterInput Pin=R12-2
+Added Pin To Net: NetName=BadInverterInput Pin=R13-2
+Added Pin To Net: NetName=+5 Pin=SW4-1
+Added Pin To Net: NetName=NetC2_2 Pin=SW4-3
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=SW3-2
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=SW2-2
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW4-2
+Added Net: Name=NetSW1_1
+Added Member To Class: ClassName=Sheet1 Member=Component R12 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R13 10k
+Added Member To Class: ClassName=Sheet1 Member=Component SW4 PWR SELECTOR

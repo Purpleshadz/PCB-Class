@@ -1,0 +1,18 @@
+Change Component DesignItemId : Designator=C4 Old DesignItemId=C_1uF_1206 New DesignItemId=C_22uF_1206
+Change Component DesignItemId : Designator=C5 Old DesignItemId=C_1uF_1206 New DesignItemId=C_22uF_1206
+Change Component Comment : Designator=C4 Old Comment=1uF New Comment=22uF
+Change Component Comment : Designator=C5 Old Comment=1uF New Comment=22uF
+Change Component Description : Designator=C4 Old Description=MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS New Description=22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+Change Component Description : Designator=C5 Old Description=MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS New Description=22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+Change component parameters: Designator = "C4" ("C4"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\QHUICSBZ" ("\QHUICSBZ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\ADZBQPJV" ("\ADZBQPJV")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"

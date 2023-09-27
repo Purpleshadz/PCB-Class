@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=LED2-1
+Change Component Comment : Designator=SW4 Old Comment=PWR_SELECTOR New Comment=PWR SELECTOR
+Added Component: Designator=TP10(TP10x_Probe)
+Added Component: Designator=TP11(TP10x_Probe)
+Added Component: Designator=TP12(TP10x_Probe)
+Added Component: Designator=TP13(TP10x_Probe)
+Added Pin To Net: NetName=NetC2_2 Pin=LED2-1
+Added Pin To Net: NetName=NetLED9_1 Pin=TP10-1
+Added Pin To Net: NetName=GND Pin=TP10-2
+Added Pin To Net: NetName=GND Pin=TP10-2
+Added Pin To Net: NetName=GND Pin=TP10-2
+Added Pin To Net: NetName=NetLED9_2 Pin=TP11-1
+Added Pin To Net: NetName=GND Pin=TP11-2
+Added Pin To Net: NetName=GND Pin=TP11-2
+Added Pin To Net: NetName=GND Pin=TP11-2
+Added Pin To Net: NetName=NetLED6_1 Pin=TP12-1
+Added Pin To Net: NetName=GND Pin=TP12-2
+Added Pin To Net: NetName=GND Pin=TP12-2
+Added Pin To Net: NetName=GND Pin=TP12-2
+Added Pin To Net: NetName=NetLED6_2 Pin=TP13-1
+Added Pin To Net: NetName=GND Pin=TP13-2
+Added Pin To Net: NetName=GND Pin=TP13-2
+Added Pin To Net: NetName=GND Pin=TP13-2
+Added Member To Class: ClassName=Sheet1 Member=Component TP10 GOOD_LED
+Added Member To Class: ClassName=Sheet1 Member=Component TP11 GOOD_RES
+Added Member To Class: ClassName=Sheet1 Member=Component TP12 BAD_LED
+Added Member To Class: ClassName=Sheet1 Member=Component TP13 BAD_RES
