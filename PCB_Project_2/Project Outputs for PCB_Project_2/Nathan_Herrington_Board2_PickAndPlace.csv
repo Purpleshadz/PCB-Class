@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB-Class\PCB_Project_2\Project Outputs for PCB_Project_2\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/09/23
+Time:       15:56
+Revision:   1ef4a390e5517a1cfa35c71cc43463caa5a15f9e
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"TP13","BAD_RES","TopLayer","TP10x_Probe","1415.000","185.000","0","Test Point 300 mil centers"
+"TP12","BAD_LED","TopLayer","TP10x_Probe","960.000","190.000","0","Test Point 300 mil centers"
+"TP11","GOOD_RES","TopLayer","TP10x_Probe","3165.000","165.000","0","Test Point 300 mil centers"
+"TP10","GOOD_LED","TopLayer","TP10x_Probe","2620.000","155.000","0","Test Point 300 mil centers"
+"SW4","PWR SELECTOR","TopLayer","3_PIN_100mil","1800.000","1745.000","270","Connector Header Through Hole 3 position 0.100" (2.54mm)"
+"R13","10k","TopLayer","1206_Passive_Resitor","1151.000","870.000","180","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"R12","10k","TopLayer","1206_Passive_Resitor","2535.000","815.000","270","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"U3","SN74AHC14DR","TopLayer","HEX_74AC14","2260.000","540.000","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"U2","SN74AHC14DR","TopLayer","HEX_74AC14","700.000","620.000","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"U1","LMC555CMX/NOPB","TopLayer","TS555IDTTR","2780.000","1520.000","90","555 Type, Timer/Oscillator _Single_ IC 3MHz 8-SO"
+"TP9","HEX_OUT_GOOD","TopLayer","TP10x_Probe","2170.000","185.000","0","Test Point 300 mil centers"
+"TP8","Q_H_GOOD","TopLayer","TP10x_Probe","1860.000","330.000","270","Test Point 300 mil centers"
+"TP7","Q_L_GOOD","TopLayer","TP10x_Probe","1820.000","820.000","90","Test Point 300 mil centers"
+"TP6","HEX_OUT_BAD","TopLayer","TP10x_Probe","485.000","210.000","0","Test Point 300 mil centers"
+"TP5","Q_H_BAD","TopLayer","TP10x_Probe","180.000","350.000","270","Test Point 300 mil centers"
+"TP4","Q_L_BAD","TopLayer","TP10x_Probe","140.000","840.000","90","Test Point 300 mil centers"
+"TP3","555_OUT","TopLayer","TP10x_Probe","2670.000","1165.000","180","Test Point 300 mil centers"
+"TP2","3.3V_TP","TopLayer","TP10x_Probe","880.000","1380.000","180","Test Point 300 mil centers"
+"TP1","5V_TP","TopLayer","TP10x_Probe","410.000","1400.000","180","Test Point 300 mil centers"
+"SW3","PREC003SAAN-RC","TopLayer","3_PIN_100mil","2230.000","985.000","270","Connector Header Through Hole 3 position 0.100" (2.54mm)"
+"SW2","PREC003SAAN-RC","TopLayer","3_PIN_100mil","1480.000","920.000","270","Connector Header Through Hole 3 position 0.100" (2.54mm)"
+"SW1","PWR_SWITCH","TopLayer","2Pin-Header-Conn","2360.000","1820.000","0","2Pin Header"
+"R11","47 Ohms","TopLayer","1206_Passive_Resitor","3020.000","320.000","0","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R10","47 Ohms","TopLayer","1206_Passive_Resitor","3020.000","460.000","0","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R9","47 Ohms","TopLayer","1206_Passive_Resitor","3020.000","600.000","0","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R8","47 Ohms","TopLayer","1206_Passive_Resitor","1380.000","385.000","0","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R7","47 Ohms","TopLayer","1206_Passive_Resitor","1380.000","525.000","0","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R6","47 Ohms","TopLayer","1206_Passive_Resitor","1380.000","685.000","0","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R5","47 Ohms","TopLayer","1206_Passive_Resitor","3080.000","1300.000","270","47O ±5% 0.25W ±200ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R4","100KOhm","TopLayer","1206_Passive_Resitor","2900.000","1820.000","180","100kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R3","1k","TopLayer","1206_Passive_Resitor","2700.000","1820.000","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R2","1k","TopLayer","1206_Passive_Resitor","2030.000","1460.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R1","1k","TopLayer","1206_Passive_Resitor","1060.000","1600.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"PS1","AMS1117-3.3","TopLayer","LDO","1400.000","1707.126","0","LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS"
+"P1","Power Jack","TopLayer","Power_Jack","438.110","1708.465","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED9","Red","TopLayer","LED_1206","2700.000","320.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED8","Red","TopLayer","LED_1206","2700.000","460.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED7","Red","TopLayer","LED_1206","2700.000","600.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED6","Red","TopLayer","LED_1206","1140.000","385.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED5","Red","TopLayer","LED_1206","1140.000","545.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED4","Red","TopLayer","LED_1206","1135.000","685.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED3","Red","TopLayer","LED_1206","3080.000","1525.000","270","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED2","Red","TopLayer","LED_1206","2025.000","1680.000","270","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED1","Red","TopLayer","LED_1206","940.000","1740.000","270","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"C5","22uF","TopLayer","1206_Passive_Capacitor","2345.000","850.000","270","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C4","22uF","TopLayer","1206_Passive_Capacitor","1250.000","1135.000","0","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C3","47nF","TopLayer","1206_Passive_Capacitor","3100.000","1820.000","180","47nF ±5% 50V C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C2","22uF","TopLayer","1206_Passive_Capacitor","1620.000","1801.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","780.000","1741.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
