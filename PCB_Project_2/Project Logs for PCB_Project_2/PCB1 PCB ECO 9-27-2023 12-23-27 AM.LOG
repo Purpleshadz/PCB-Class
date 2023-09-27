@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=BadInverterInput Pin=R6-1
+Removed Pin From Net: NetName=NetC4_1 Pin=R6-2
+Removed Pin From Net: NetName=GoodInverterInput Pin=R10-1
+Removed Pin From Net: NetName=NetC4_1 Pin=R10-2
+Removed Pin From Net: NetName=NetLED3_1 Pin=SW2-1
+Removed Member From Class: ClassName=Sheet1 Member=R12
+Removed Member From Class: ClassName=Sheet1 Member=R13
+Change Component Footprint: Designator=SW2 Old Footprint=2Pin-Header-Conn New Footprint=3_PIN_100mil
+Change Component Footprint: Designator=SW3 Old Footprint=2Pin-Header-Conn New Footprint=3_PIN_100mil
+Change Component Comment : Designator=SW2 Old Comment=BAD_SWITCH New Comment=PREC003SAAN-RC
+Change Component Comment : Designator=SW3 Old Comment=GOOD_SWITCH New Comment=PREC003SAAN-RC
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "2Pin-Header-Conn"; UniqueID = "\GLYWUBKE" ("\GLYWUBKE")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=304982371"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C49257"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "PREC003SAAN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "CONN HEADER VERT 3POS 2.54MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "2Pin-Header-Conn"; UniqueID = "\NHGTUHZZ" ("\NHGTUHZZ")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=304982371"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C49257"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "PREC003SAAN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "CONN HEADER VERT 3POS 2.54MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=SW2-1
+Added Pin To Net: NetName=NetLED3_1 Pin=SW2-3
+Added Pin To Net: NetName=NetC4_1 Pin=SW3-3
+Added Member To Class: ClassName=Sheet1 Member=Component U3 SN74AHC14DR

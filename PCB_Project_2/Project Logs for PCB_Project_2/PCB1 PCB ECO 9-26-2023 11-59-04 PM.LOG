@@ -1,0 +1,7 @@
+Change Component Comment : Designator=U1 Old Comment=NE555DR New Comment=LMC555CMX/NOPB
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TS555IDTTR"; UniqueID = "\XYJDKEYH" ("\XYJDKEYH")
+Change component parameters (AddParameter): Name = "DigiKey link"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/LMC555CMX-NOPB/LMC555CMX-NOPBCT-ND/1010550"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C90760"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "LMC555CMX/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
