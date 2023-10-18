@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=ATMEGARESET Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Pin From Net: NetName=NetJ2_1 Pin=J9-5
+Removed Pin From Net: NetName=NetJ2_5 Pin=J9-7
+Removed Pin From Net: NetName=NetJ9_8 Pin=U2-14
+Removed Pin From Net: NetName=NetJ9_6 Pin=U2-16
+Change Component Footprint: Designator=J9 Old Footprint=10_PIN_ARDUINO_100MIL New Footprint=8_PIN_ARD-DIG_100MIL
+Change Component Comment : Designator=J9 Old Comment=PPTC101LFBN-RC New Comment=PPTC081LFBN-RC
+Change component parameters: Designator = "J9" ("J9"); Footprint = "10_PIN_ARDUINO_100MIL"; UniqueID = "\EFPOOJUL" ("\EFPOOJUL")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ATMEGARESET Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J9-3
+Added Pin To Net: NetName=NetJ2_5 Pin=J9-5
+Added Pin To Net: NetName=NetJ9_8 Pin=U2-12
+Added Pin To Net: NetName=NetJ9_6 Pin=U2-14
+Added Pin To Net: NetName=NetJ9_4 Pin=J9-4
+Added Pin To Net: NetName=NetJ9_4 Pin=U2-16
+Added Net: Name=NetJ9_4
+Added Pin To Net: NetName=NetJ9_7 Pin=J9-7
+Added Pin To Net: NetName=NetJ9_7 Pin=U2-13
+Added Net: Name=NetJ9_7
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=U2-28
+Added Net: Name=NetJ11_1
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ11_2 Pin=U2-27
+Added Net: Name=NetJ11_2

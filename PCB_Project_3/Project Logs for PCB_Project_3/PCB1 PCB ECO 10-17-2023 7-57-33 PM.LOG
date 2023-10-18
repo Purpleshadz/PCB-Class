@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=5V Pin=C11-2
+Removed Pin From Net: NetName=5V Pin=J10-2
+Removed Pin From Net: NetName=ATMEGARESET Pin=J10-3
+Removed Pin From Net: NetName=3.3V Pin=J10-4
+Removed Pin From Net: NetName=5V Pin=J10-5
+Removed Pin From Net: NetName=  GND Pin=J10-6
+Removed Pin From Net: NetName=  GND Pin=J10-7
+Removed Pin From Net: NetName=VIN Pin=J10-8
+Removed Member From Class: ClassName=Sheet2 Member=C11
+Change Component Footprint: Designator=J10 Old Footprint=8_PIN_ARD-PWR_100MIL New Footprint=6_PIN_100MIL -Female
+Change Component Comment : Designator=J10 Old Comment=Power New Comment=PPTC061LFBN-RC
+Change component parameters: Designator = "J10" ("J10"); Footprint = "8_PIN_ARD-PWR_100MIL"; UniqueID = "\UJNVNMIE" ("\UJNVNMIE")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC061LFBN-RC/S7004-ND/810145/?itemSeq=304982353"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C40877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ATMEGARESET Pin=J10-1
+Added Pin To Net: NetName=3.3V Pin=J10-2
+Added Pin To Net: NetName=5V Pin=J10-3
+Added Pin To Net: NetName=  GND Pin=J10-4
+Added Pin To Net: NetName=  GND Pin=J10-5
+Added Pin To Net: NetName=VIN Pin=J10-6
