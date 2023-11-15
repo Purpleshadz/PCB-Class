@@ -1,0 +1,36 @@
+Change Component Comment : Designator=LED3 Old Comment=BRD_PWR New Comment=Red
+Change Component Comment : Designator=SW1 Old Comment=CH340G_PWR New Comment=SW_2Pin_100mil_Switch
+Change Component Comment : Designator=J2 Old Comment=ICSP New Comment=NRPN032PAEN-RC
+Change Component Comment : Designator=SW2 Old Comment=PLUG New Comment=PREC003SAAN-RC
+Change Component Comment : Designator=LED1 Old Comment=PLUG_PWR New Comment=Red
+Change Component Comment : Designator=SW4 Old Comment=PWR_SWITCH New Comment=SW_2Pin_100mil_Switch
+Change Component Comment : Designator=LED2 Old Comment=USB_PWR New Comment=Red
+Added Component: Designator=C11(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=R7(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206JT1M00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206JT1M00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=5V Pin=C11-2
+Added Pin To Net: NetName=NetC4_2 Pin=R7-1
+Added Pin To Net: NetName=NetC5_2 Pin=R7-2
+Added Pin To Net: NetName=16MHz1 Pin=R8-1
+Added Pin To Net: NetName=16MHz2 Pin=R8-2
+Added Member To Class: ClassName=Sheet2 Member=Component C1 22uF
+Added Member To Class: ClassName=Sheet2 Member=Component C5 22uF
+Added Member To Class: ClassName=Sheet2 Member=Component C11 22uF
+Added Member To Class: ClassName=Sheet2 Member=Component R7 1M
+Added Member To Class: ClassName=Sheet2 Member=Component R8 1M

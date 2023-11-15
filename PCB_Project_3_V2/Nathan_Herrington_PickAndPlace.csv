@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB Class\PCB_Project_3_V2\Project Outputs for PCB_Project_3_V2\Pick Place for PCB2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/10/23
+Time:       19:26
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"Y2","X322516MLB4SI","TopLayer","Crystal_resonator","1570.000","1821.968","180","±10ppm 16000000Hz -40?~85? ?????? 60O 9pF SMD3225-4P Crystals ROHS"
+"Y1","X322512MSB4SI","TopLayer","Crystal_resonator","780.000","2038.032","0","SMD Crystal Resonators 12MHz ±10ppm SMD-3225_4P RoHS"
+"U2","ATMEGA328P-ANR","TopLayer","ATMega328P","1910.000","1550.000","90","AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
+"U1","CH340G","TopLayer","USB_to_serial","430.000","1870.000","90","Transceiver USB 2.0 2Mbps SOP-16_150mil USB ICs RoHS"
+"SW4","MAIN_PWR","TopLayer","2Pin-Header-Conn","817.500","1377.500","90","2Pin Header"
+"SW3","TL3305AF160QG","TopLayer","Switch_JLC","1790.000","830.000","180","Tactile Switch SPST-NO Top Actuated Surface Mount"
+"SW2","PREC003SAAN-RC","TopLayer","3_PIN_100mil","660.000","830.000","270","Connector Header Through Hole 3 position 0.100" (2.54mm)"
+"SW1","CH340G_SWITCH","TopLayer","2Pin-Header-Conn","610.000","1370.000","90","2Pin Header"
+"R10","10k","TopLayer","1206_Passive_Resitor","2520.000","330.000","0","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"R9","10k","TopLayer","1206_Passive_Resitor","2300.000","380.000","0","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"R8","1k","TopLayer","1206_Passive_Resitor","2701.000","1880.000","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R7","1k","TopLayer","1206_Passive_Resitor","2690.000","1660.000","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R6","1M","TopLayer","1206_Passive_Resitor","1390.000","1930.000","270","CHIP RESISTOR - SURFACE MOUNT 1MOHMS ±1% 1/4W 1206 ROHS"
+"R5","1M","TopLayer","1206_Passive_Resitor","990.000","2000.000","90","CHIP RESISTOR - SURFACE MOUNT 1MOHMS ±1% 1/4W 1206 ROHS"
+"R4","10k","TopLayer","1206_Passive_Resitor","2050.000","790.000","270","10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"R3","1k","TopLayer","1206_Passive_Resitor","1011.000","1020.000","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R2","1k","TopLayer","1206_Passive_Resitor","1029.000","110.000","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R1","1k","TopLayer","1206_Passive_Resitor","339.000","1310.000","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"PS1","AMS1117-3.3","TopLayer","LDO","1070.000","614.921","180","LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS"
+"P1","Power Jack","TopLayer","Power_Jack","438.110","148.464","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED5","ARD_TX","TopLayer","LED_1206","2450.000","1880.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED4","ARD_RX","TopLayer","LED_1206","2450.000","1660.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED3","5V","TopLayer","LED_1206","830.000","960.000","90","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED2","PLUG_PWR","TopLayer","LED_1206","790.000","110.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"LED1","USB_PWR","TopLayer","LED_1206","329.000","1170.000","180","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"J10","PPTC061LFBN-RC","TopLayer","6_PIN_100MIL_-Female","2350.000","500.000","180","6 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J9","PPTC061LFBN-RC","TopLayer","6_PIN_100MIL_-Female","1650.000","500.000","0","6 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J8","PPTC101LFBN-RC","TopLayer","10_PIN_ARDUINO_100MIL","1290.000","2400.000","0","10 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J7","PPTC081LFBN-RC","TopLayer","8_PIN_ARD-DIG_100MIL","2250.000","2400.000","180","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J6","PPTC061LFBN-RC","TopLayer","6_PIN_100MIL_-Female","1650.000","200.000","180","6 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J5","PPTC101LFBN-RC","TopLayer","10_PIN_ARDUINO_100MIL","1290.000","2700.000","0","10 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J4","PPTC061LFBN-RC","TopLayer","6_PIN_100MIL_-Female","2350.000","200.000","180","6 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J3","ICSP","TopLayer","ICSP","1530.000","1140.000","90","Connector Header Through Hole 6 position 0.079" (2.00mm)"
+"J2","PPTC081LFBN-RC","TopLayer","8_PIN_ARD-DIG_100MIL","2250.000","2700.000","0","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J1","USB Mini","TopLayer","USB_MINI_B","290.000","870.000","270","Through Hole USB Connectors RoHS"
+"D1","SRV05-4-P-T7","TopLayer","TVS","309.262","2270.000","180","TVS SOT-23-6 ROHS"
+"C17","1uF","TopLayer","1206_Passive_Capacitor","2250.000","1500.000","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"
+"C16","22uF","TopLayer","1206_Passive_Capacitor","2020.000","350.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C15","22uF","TopLayer","1206_Passive_Capacitor","1650.000","380.000","0","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C14","22uF","TopLayer","1206_Passive_Capacitor","1440.000","370.000","180","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C13","22pF","TopLayer","1206_Passive_Capacitor","1460.000","1700.000","180","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C12","22uF","TopLayer","1206_Passive_Capacitor","1970.000","1180.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C11","22pF","TopLayer","1206_Passive_Capacitor","1630.000","2011.000","90","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C10","22uF","TopLayer","1206_Passive_Capacitor","1800.000","1910.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C9","22uF","TopLayer","1206_Passive_Capacitor","1930.000","1909.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C8","22uF","TopLayer","1206_Passive_Capacitor","1830.000","1190.000","270","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C7","22pF","TopLayer","1206_Passive_Capacitor","770.000","2180.000","0","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C6","22pF","TopLayer","1206_Passive_Capacitor","839.000","1890.000","180","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C5","47nF","TopLayer","1206_Passive_Capacitor","1460.000","860.000","0","47nF ±5% 50V C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C4","22uF","TopLayer","1206_Passive_Capacitor","780.000","1760.000","180","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C3","22uF","TopLayer","1206_Passive_Capacitor","180.000","1630.000","270","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C2","22uF","TopLayer","1206_Passive_Capacitor","1010.000","360.000","0","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","820.000","690.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
