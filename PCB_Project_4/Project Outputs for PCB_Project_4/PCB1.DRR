@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   11/15/2023  4:44:20 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer 1 to Bottom Layer 1
+ASCII RoundHoles File : PCB1-RoundHoles.TXT
+ASCII SlotHoles File : PCB1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.33mm (13mil)                                            Round             23        PTH        233.47mm (9.19inch)
+T2      0.711mm (28mil)                                           Round             6         PTH        43.73mm (1.72inch)
+T3      0.8mm (31mil)                                             Round             5         PTH        6.25mm (0.25inch)
+T4      0.8mm (31mil)                                             Slot              4         PTH        38.36mm (1.51inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        6.50mm (0.26inch)
+T6      1mm (39mil)                                               Round             2         PTH        3.50mm (0.14inch)
+T7      1mm (39mil)                                               Slot              1         PTH        1.50mm (0.06inch)
+T8      1.016mm (40mil)                                           Round             12        PTH        77.64mm (3.06inch)
+T9      1.02mm (40mil)                                            Round             6         PTH        34.10mm (1.34inch)
+T10     1.1mm (43mil)                                             Round             33        PTH        152.21mm (5.99inch)
+T11     1.2mm (47mil)                                             Slot              2         PTH        15.86mm (0.62inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              96
+
+Total Processing Time (hh:mm:ss) : 00:00:00
